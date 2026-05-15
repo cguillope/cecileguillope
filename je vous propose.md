@@ -14,3 +14,6 @@ perspectives, les clôtures, le jardin d’ombre, ...
 - Pertinence du projet
 - Scénarios de compositions
 - Piquetage ou esquisse de plantation 
+
+## Pour vous collectivités... 
+Domaines d’actions et compétences mobilisables 
