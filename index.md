@@ -11,4 +11,4 @@ Le jardin que nous habitons, le seuil de la mairie, la placette où nous attendo
 - Valoriser les savoir-faire, agir avec les dynamiques en place
 - S'intéresser à la nature ordinaire, agir en conscience 
  
- **Des idées pour chez moi, pour ma commune** a pour objet d'accompagner les particuliers, associations et collectivités  **dans leurs projets extérieurs**. 
+ **Cueillette d'idées** a pour objet d'accompagner les particuliers, associations et collectivités  **dans leurs projets de jardins, parcs, espaces publics, ...** Avec à l'esprit **la simplicité, la connaissance, la valorisation, ...** . 
