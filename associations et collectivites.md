@@ -1,5 +1,5 @@
 ---
-title: "Associations, collectivités"
+title: "Associations et collectivités"
 order: 2
 in_menu: true
 ---
