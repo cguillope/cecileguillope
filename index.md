@@ -11,4 +11,4 @@ Le jardin que nous habitons, le seuil de la mairie, la placette où nous attendo
 - Valoriser les savoir-faire, agir avec les dynamiques en place
 - S'intéresser à la nature ordinaire, agir en conscience 
  
- **une association** qui a pour objet d'accompagner les particuliers, associations et collectivités  **valeurs de consentement, de bien commun et de prendre soin des personnes et de l’environnement**. 
+ **Des idées pour chez moi, pour ma commune** a pour objet d'accompagner les particuliers, associations et collectivités  **dans leurs projets extérieurs**. 
