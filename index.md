@@ -4,7 +4,7 @@ order: 0
 in_menu: true
 ---
 ## Pour une composition personnalisée de vos lieux de vie
-### Le jardin, le seuil de la mairie, l'arrêt de bus, le carré d'herbe du lotissement, le cimetière et son église, ...
+### Le jardin, le seuil de la mairie, l'arrêt de bus, le carré d'herbe du lotissement,...
 
 - Partager une expertise paysage avec une forte sensibilité sur la place du végétal, **agir avec le vivant**
 - Encourager les démarches collectives, **agir ensemble**
