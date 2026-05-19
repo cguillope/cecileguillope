@@ -18,11 +18,4 @@ Fabriquez un moment de partage in situ et collaboratif pour une composition pers
 - **Durée** : 1/2 journée à 1 journée suivant les besoins 
 
 
-- Vous obtenez des éléments concrets qui vous permettront d'agir dans vous espaces publics à votre rythme et dans une cohérence d’ensemble. Ces éléments pourront-être partagés avec les entreprises de paysage, les pépiniéristes pour établir des devis de travaux si vos services techniques ne peuvent s'y atteler.
-
-Diagnostic et analyse (capacité d’entretien, ressources présentes sur place, clés de gestion, suivi floristique, lien avec la maison et ses habitants, compréhension de l’environnement...)
--Valorisation des éléments qui composent votre cadre de vie
--Identification et synthèse des besoins
--Scénarios de compositions
--Piquetage ou esquisse
--Conseils pour la mise en œuvre 
+- Vous obtenez des éléments concrets qui vous permettront d'agir dans vous espaces publics à votre rythme et dans une cohérence d’ensemble. Ces éléments pourront-être partagés avec les entreprises de paysage, les pépiniéristes pour établir des devis de travaux si vos services techniques ne peuvent s'y atteler. 
