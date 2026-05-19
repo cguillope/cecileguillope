@@ -1,5 +1,5 @@
 ---
-title: "L'atelier **\"cueillette d'idées\"**,"
+title: "L'atelier \"cueillette d'idées\""
 order: 0
 in_menu: true
 ---
