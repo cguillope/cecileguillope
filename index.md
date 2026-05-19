@@ -1,5 +1,5 @@
 ---
-title: "L'atelier cueillette d'idées,"
+title: "L'atelier **cueillette d'idées**,"
 order: 0
 in_menu: true
 ---
@@ -11,4 +11,7 @@ in_menu: true
 - Valoriser les savoir-faire de chacun, **agir à petits pas**
 - S'intéresser son environnement, **agir avec notre paysage** 
  
-Particuliers, associations et collectivités, sollicitez **L'atelier cueillette d'idées**  pour vos projets de **jardins, parcs, espaces publics, massifs ...** si vous recherchez bon sens et créativité, vision d'ensemble et détail technique, coup de pouce et adaptabilité. 
+Vous recherchez du bon sens et de la créativité, une vision d'ensemble et des modes d'emploi techniques, 
+Vous souhaitez faire votre part pour la nature ordinaire et êtes soucieux de la durabilité, du ré-emploi et de l'adaptabilité de vos pratiques
+### Particuliers, associations et collectivités, sollicitez **L'atelier "cueillette d'idées"**  
+pour vos projets de **jardins, parcs, espaces publics, massifs ...** 
