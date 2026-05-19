@@ -18,4 +18,5 @@ Fabriquez un moment de partage in situ et collaboratif pour une composition pers
 - **Conseils et sensibilisation** 
 
 
-Vous obtenez des éléments concrets qui vous permettront d'agir dans vous espaces publics à votre rythme et dans une cohérence d’ensemble. Ces éléments pourront-être partagés avec les entreprises de paysage, les pépiniéristes pour établir des devis de travaux si vos services techniques ne peuvent s'y atteler. 
+Vous obtenez des éléments concrets comme par exemple **une esquisse "feuille de route", une liste d'associations végétales, un conseil d'entretien, une séance de repérage/piquage intelligent...**
+Ces éléments vous permettront d'agir dans vos espaces publics à votre rythme et dans une cohérence d’ensemble. Ils pourront-être partagés avec les concepteurs architectes, urbanistes, paysagiste ou  les entreprises de paysage, travaux-publics, les pépiniéristes pour établir des devis de travaux si vos services techniques ne peuvent s'y atteler. 
