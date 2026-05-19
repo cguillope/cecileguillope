@@ -7,20 +7,15 @@ in_menu: true
 - Vous vous réfléchissez à mieux équilibrer les charges d’entretien de vos espaces verts sans dévaloriser le cadre de vie ? 
 - Vous souhaitez organiser une journée citoyenne pour désherber et fleurir les espaces verts ?
 - Vos souhaitez composer vos massifs en partant des boutures collectées ? 
-- Vous recherchez un conseil sur la question du végétal en lien avec votre paysage ? 
+- Vous recherchez un conseil sur la question du végétal en lien avec votre paysage et la nature ordinaire ? 
 
 ### Prêt à vous faire accompagner pour valoriser votre cadre de vie 
 
-Fabriquez un moment de partage in situ et collaboratif pour une composition personnalisée de vos espaces collectifs en prenant les services de 
-### Prêt à vous faire accompagner pour valoriser votre cadre de vie 
+Fabriquez un moment de partage in situ et collaboratif pour une composition personnalisée de vos espaces collectifs en sollicitant **L'atelier "cueillette d'idées"** pour une expertise paysage et une conception personnalisée et animée avec l'équipe municipale, les services techniques, les habitants... 
 
-Expertise paysage et conception personnalisée et animée avec l'équipe municipale, les services techniques, les habitants... 
+- **Tarif** : devis sur demande
 
-? 
-
-- Tarif : devis sur demande
-
-- Durée : 1/2 journée à 1 journée suivant les besoins 
+- **Durée** : 1/2 journée à 1 journée suivant les besoins 
 
 
 - Vous obtenez des éléments concrets qui vous permettront d'agir dans vous espaces publics à votre rythme et dans une cohérence d’ensemble. Ces éléments pourront-être partagés avec les entreprises de paysage, les pépiniéristes pour établir des devis de travaux si vos services techniques ne peuvent s'y atteler.
