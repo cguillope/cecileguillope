@@ -3,17 +3,20 @@ title: "Associations et collectivités"
 order: 2
 in_menu: true
 ---
-- Vous vous souciez de la qualité des ambiances de votre cimetière et de la mise en valeur votre patrimoine funéraire, bâti ou arboré ?
-- Vous vous réfléchissez à mieux équilibrer les charges d’entretien de vos espaces-verts sans dévaloriser le cadre de vie ? 
+- Vous vous souciez de la qualité des ambiances de votre village ?
+- Vous vous réfléchissez à mieux équilibrer les charges d’entretien de vos espaces verts sans dévaloriser le cadre de vie ? 
 - Vous souhaitez organiser une journée citoyenne pour désherber et fleurir les espaces verts ?
-- Vos souhaitez composer vos massifs en partant des boutures préparés par votre agents, vos élus ou les habitants ? 
+- Vos souhaitez composer vos massifs en partant des boutures collectées ? 
 - Vous recherchez un conseil sur la question du végétal en lien avec votre paysage ? 
 
-### Un moment de partage in situ et collaboratif pour une composition personnalisée de vos espaces collectifs 
+### Prêt à vous faire accompagner pour valoriser votre cadre de vie 
+
+Fabriquez un moment de partage in situ et collaboratif pour une composition personnalisée de vos espaces collectifs en prenant les services de 
+### Prêt à vous faire accompagner pour valoriser votre cadre de vie 
 
 Expertise paysage et conception personnalisée et animée avec l'équipe municipale, les services techniques, les habitants... 
 
-### Prêt à vous faire accompagner pour valoriser votre cadre de vie ? 
+? 
 
 - Tarif : devis sur demande
 
