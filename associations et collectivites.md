@@ -12,12 +12,12 @@ in_menu: true
 ### Prêt à vous faire accompagner pour valoriser votre cadre de vie ? 
 
 Fabriquez un moment de partage in situ et collaboratif pour une composition personnalisée de vos espaces collectifs en sollicitant **L'atelier "cueillette d'idées"** pour :  
-- **Diagnostic et expertise du lieu** (capacité d’entretien, ressources présentes sur place, clés de gestion, indicateur floristique, lien avec la maison et ses habitants, compréhension de l’environnement, nature ordinaire...)
+- **Diagnostic et expertise du lieu** (capacité d’entretien, ressources présentes sur place, clés de gestion lien avec la maison et ses habitants, compréhension de l’environnement, nature ordinaire...)
 - **Identification et organisation des besoins**
 - **Partage d'idées**, co-conception personnalisée et animée avec l'équipe municipale, les services techniques, les habitants
 - **Conseils et sensibilisation**
 - Aide à la préparation des **appels à projet et dossiers de subvention**
 
 
-Vous obtenez des éléments concrets comme par exemple **une esquisse "feuille de route", une liste d'associations végétales, un conseil d'entretien, une séance de repérage/piquage intelligent...**
-Ces éléments vous permettront d'agir dans vos espaces publics à votre rythme et dans une cohérence d’ensemble. Ils pourront-être partagés avec les concepteurs, les entreprises de paysage et de travaux publics, les pépiniéristes (...) pour établir des devis de travaux si vos services techniques ne peuvent s'y atteler. 
+Vous obtenez des éléments concrets comme par exemple **une esquisse "feuille de route", une liste d'associations végétales, un conseil d'entretien, une séance de repérage/piquetage intelligent...**
+Ces éléments vous permettront d'agir ponctuellement dans vos espaces publics à votre rythme et dans une cohérence d’ensemble. Ils pourront-être partagés avec les concepteurs, les entreprises de paysage et de travaux publics, les pépiniéristes. 
