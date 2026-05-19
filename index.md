@@ -1,14 +1,14 @@
 ---
-title: "\"Cueillette d'idées\""
+title: "L'atelier cueillette d'idées,"
 order: 0
 in_menu: true
 ---
-# Composition personnalisée de vos paysages 
-Le jardin que nous habitons, le seuil de la mairie, la placette où nous attendons le bus, les chemins, le cimetière et son église, ...
+## Pour une composition personnalisée de vos lieux de vie
+### Le jardin, le seuil de la mairie, l'arrêt de bus, le carré d'herbe du lotissement, le cimetière et son église, ...
 
-- Partager une expertise paysage avec une forte sensibilité sur la place du végétal, partir du lieu pour agir
-- Encourager les démarches collectives et concertées, agir ensemble
-- Valoriser les savoir-faire, agir avec les dynamiques en place
-- S'intéresser à la nature ordinaire, agir en conscience 
+- Partager une expertise paysage avec une forte sensibilité sur la place du végétal, **agir avec le vivant**
+- Encourager les démarches collectives, **agir ensemble**
+- Valoriser les savoir-faire de chacun, **agir à petits pas**
+- S'intéresser son environnement, **agir avec notre paysage** 
  
- **Cueillette d'idées** a pour objet d'accompagner les particuliers, associations et collectivités  **dans leurs projets de jardins, parcs, espaces publics, ...** Avec à l'esprit ** la simplicité des actions, la connaissance des lieux, la valorisation de la place du végétal** . 
+Particuliers, associations et collectivités, sollicitez **L'atelier cueillette d'idées**  pour vos projets de **jardins, parcs, espaces publics, massifs ...** si vous recherchez bon sens et créativité, vision d'ensemble et détail technique, coup de pouce et adaptabilité. 
