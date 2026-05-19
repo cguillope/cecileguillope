@@ -14,4 +14,4 @@ in_menu: true
 Vous recherchez du bon sens et de la créativité, une vision d'ensemble et des modes d'emploi techniques, 
 Vous souhaitez faire votre part pour la nature ordinaire et êtes soucieux de la durabilité, du ré-emploi et de l'adaptabilité de vos pratiques
 ### Particuliers, associations et collectivités, sollicitez **L'atelier "cueillette d'idées"**  
-pour vos projets de **jardins, parcs, espaces publics, massifs ...** 
+pour vos projets de **massifs, jardins, parcs, espaces collectifs,...** 
