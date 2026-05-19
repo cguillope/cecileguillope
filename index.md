@@ -9,7 +9,7 @@ in_menu: true
 - Partager une expertise paysage avec une forte sensibilité sur la place du végétal, **agir avec le vivant**
 - Encourager les démarches collectives, **agir ensemble**
 - Valoriser les savoir-faire de chacun, **agir à petits pas**
-- S'intéresser son environnement, **agir avec notre paysage** 
+- S'intéresser son environnement, **agir dans nos paysages** 
  
 Vous recherchez du bon sens et de la créativité, une vision d'ensemble et des modes d'emploi techniques, 
 Vous souhaitez faire votre part pour la nature ordinaire et êtes soucieux de la durabilité, du ré-emploi et de la modularité de vos pratiques
