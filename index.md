@@ -12,6 +12,6 @@ in_menu: true
 - S'intéresser son environnement, **agir dans nos paysages** 
  
 Vous recherchez du bon sens et de la créativité, une vision d'ensemble et des modes d'emploi techniques, 
-Vous souhaitez faire votre part pour la nature ordinaire et êtes soucieux de la durabilité, du ré-emploi et de la modularité de vos pratiques
+Vous souhaitez faire votre part pour la nature ordinaire. Vous êtes soucieux de du ré-emploi et de la modularité de vos pratiques. Vous avez a coeur de valoriser vos savoir-faire ?
 ### Particuliers, associations et collectivités, sollicitez **L'atelier "cueillette d'idées"**  
 pour vos projets de **massifs, jardins, parcs, espaces collectifs,...** 
