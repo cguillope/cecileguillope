@@ -13,8 +13,7 @@ in_menu: true
  
 Vous recherchez du bon sens et de la créativité, une vision d'ensemble et des modes d'emploi techniques, 
 Vous souhaitez faire votre part pour la nature ordinaire. Vous êtes soucieux de du ré-emploi et de la modularité de vos pratiques. Vous avez a coeur de valoriser vos savoir-faire ?
-### Particuliers, associations et collectivités, sollicitez **L'atelier "cueillette d'idées"**  
-pour 
+### Particuliers, associations et collectivités, sollicitez **L'atelier "cueillette d'idées"**  pour :
 - vos projets de **massifs, jardins, parcs, espaces collectifs,...** 
 - vos études de **faisabilité, programmation,...** 
 - vos **ateliers d'expérimentation,...** 
