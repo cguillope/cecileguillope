@@ -7,13 +7,13 @@ in_menu: true
 ### Le jardin, le seuil de la mairie, l'arrêt de bus, le carré d'herbe du lotissement,...
 
 - Partager une expertise paysage avec une forte sensibilité sur la place du végétal, **agir avec le vivant**
-- Encourager les démarches collectives, **agir ensemble**
-- Valoriser les savoir-faire de chacun, **agir à petits pas**
-- S'intéresser son environnement, **agir dans nos paysages** 
+- Encourager les démarches collectives et co-construites, **agir ensemble**
+- Valoriser les savoir-faire mobilisables et jongler avec les contraintes et leviers existants, **agir à petits pas**
+- Prendre soins de nos aux lieux de vie, **agir dans nos paysages** 
  
 Vous recherchez du bon sens et de la créativité, une vision d'ensemble et des modes d'emploi techniques, 
-Vous souhaitez faire votre part pour la nature ordinaire. Vous êtes soucieux de du ré-emploi et de la modularité de vos pratiques. Vous avez a coeur de valoriser vos savoir-faire ?
+Vous souhaitez faire votre part pour la nature ordinaire. Vous êtes soucieux de du ré-emploi et de la modularité de vos pratiques. Vous avez à cœur de valoriser vos savoir-faire ?
 ### Particuliers, associations et collectivités, sollicitez **L'atelier "cueillette d'idées"**  pour :
-- vos projets de **massifs, jardins, parcs, espaces collectifs,...** 
+- vos projets de **massifs, jardins, parcs, espaces collectifs, espaces verts...** 
 - vos études de **faisabilité, programmation,...** 
 - vos **ateliers d'expérimentation,...** 
