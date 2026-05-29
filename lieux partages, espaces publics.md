@@ -1,5 +1,5 @@
 ---
-title: "Associations et collectivités"
+title: "Lieux partagés, espaces publics"
 order: 2
 in_menu: true
 ---
