@@ -1,5 +1,5 @@
 ---
-title: "Salade paysagère"
+title: "\"Salade paysagère !\""
 order: 0
 in_menu: true
 ---
@@ -13,7 +13,7 @@ in_menu: true
  
 Vous recherchez du bon sens et de la créativité, une vision d'ensemble et des modes d'emploi techniques, 
 Vous souhaitez faire votre part pour la nature ordinaire. Vous êtes soucieux de du ré-emploi et de la modularité de vos pratiques. Vous avez à cœur de valoriser vos savoir-faire ?
-### Particuliers, associations et collectivités, demandez ma ** "salade paysagère"**  pour :
+### Particuliers, associations et collectivités, demandez ma ** "salade paysagère !"**  pour :
 - vos projets de **massifs, jardins, parcs, espaces collectifs, espaces verts...** 
 - vos études de **faisabilité, programmation,...** 
 - vos **ateliers d'expérimentation,...** 
