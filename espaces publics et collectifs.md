@@ -1,5 +1,5 @@
 ---
-title: "Nos espaces publics et collectifs"
+title: "Espaces publics et collectifs"
 order: 2
 in_menu: true
 ---
