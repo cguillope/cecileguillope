@@ -1,5 +1,5 @@
 ---
-title: "Votre jardin"
+title: "Jardins"
 order: 1
 in_menu: true
 ---
