@@ -1,9 +1,9 @@
 ---
-title: "L'atelier \"cueillette d'idées\""
+title: "Salade paysagère"
 order: 0
 in_menu: true
 ---
-## Pour une composition personnalisée de vos lieux de vie
+## Pour des jardins et des lieux collectifs bien composés
 ### Le jardin, le seuil de la mairie, l'arrêt de bus, le carré d'herbe du lotissement,...
 
 - Partager une expertise paysage avec une forte sensibilité sur la place du végétal, **agir avec le vivant**
