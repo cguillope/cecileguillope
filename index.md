@@ -1,5 +1,5 @@
 ---
-title: "\"Salade paysagère !\""
+title: "NOM"
 order: 0
 in_menu: true
 ---
