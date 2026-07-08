@@ -21,4 +21,4 @@ Ces éléments vous permettront **d'aménager votre jardin à votre rythme et da
 
 Vous pourrez vous en servir pour mieux cadrer vos demandes auprès des entreprises de paysage, de terrassement, des pépiniéristes pour réaliser les travaux si vous ne souhaitez pas vous-même vous y atteler. Cela peut être aussi le début d'une mission de conception de jardin dans son intégralité. 
 
-![Au jardin de Cécile]({% link images/Cecile.jpg %}) 
+![photos de l'animation]({% link images/Cecile.jpg %}) 
