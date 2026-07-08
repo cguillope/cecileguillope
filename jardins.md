@@ -10,6 +10,8 @@ in_menu: true
 - **Partage d'idées**, co-conception
 - **Conseils et sensibilisation**  
 
+![Texte décrivant l'image]({% link images/Photo.png %})
+
 ### Prêt à vous lancer pour votre jardin ? 
 
 - **Tarif** : 250 € TTC plus frais kilométriques depuis Saint-Lô
@@ -20,4 +22,3 @@ in_menu: true
 Ces éléments vous permettront **d'aménager votre jardin à votre rythme et dans une cohérence d’ensemble**. 
 
 Vous pourrez vous en servir pour mieux cadrer vos demandes auprès des entreprises de paysage, de terrassement, des pépiniéristes pour réaliser les travaux si vous ne souhaitez pas vous-même vous y atteler. Cela peut être aussi le début d'une mission de conception de jardin dans son intégralité. 
-![Texte décrivant l'image]({% link images/Cecile.jpg %}) 
