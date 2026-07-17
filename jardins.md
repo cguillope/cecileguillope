@@ -5,7 +5,7 @@ in_menu: true
 ---
 ### Un moment de partage in situ pour une composition personnalisée de votre jardin
 
-- **Diagnostic et expertise du lieu** (capacité d’entretien, ressources présentes sur place, clés de gestion, indicateur floristique, lien avec la maison et ses habitants, compréhension de l’environnement, nature ordinaire...)
+- **Diagnostic et expertise du lieu** (capacité d’entretien, ressources présentes sur place, clés de gestion, indicateurs floristiques, liens avec la maison et ses habitants, compréhension de l’environnement, nature ordinaire...)
 - **Identification et organisation des besoins**
 - **Partage d'idées**, co-conception
 - **Conseils et sensibilisation**  
