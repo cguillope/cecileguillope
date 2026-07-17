@@ -14,7 +14,7 @@ in_menu: true
 
 ### Prêt à vous lancer pour votre jardin ? 
 
-- **Tarif** : 250 € TTC plus frais kilométriques depuis Saint-Lô
+- **Tarif** : 200 € TTC plus frais kilométriques depuis Saint-Lô
 
 - **Durée** : 1/2 journée en votre compagnie
 
