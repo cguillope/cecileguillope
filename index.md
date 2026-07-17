@@ -15,6 +15,6 @@ Vous recherchez du bon sens et de la créativité, une vision d'ensemble et des 
 Vous souhaitez faire votre part pour la nature ordinaire ? 
 Vous êtes soucieux du ré-emploi et de la modularité de vos pratiques ? Vous avez à cœur de valoriser vos savoir-faire ?
 ### Particuliers, associations et collectivités, sollicitez mes compétences et mes idées pour :
-- vos projets de **massifs, jardins, parcs, espaces collectifs, espaces verts...** 
-- vos études de **faisabilité, programmation...** 
-- vos **ateliers d'expérimentation...** 
+- vos projets de **massifs, jardins, parcs, espaces collectifs, espaces verts** 
+- vos études de **faisabilité, programmation** 
+- vos **ateliers d'expérimentation** 
