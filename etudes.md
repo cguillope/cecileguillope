@@ -15,12 +15,13 @@ in_menu: true
 - Scénarios identifiés chiffrés
 - Concertation- Ateliers - Rencontres - Réunions - Choix et présentation du scénario retenu
 ### Vers la programmation (Définition du projet)
-- Description détaillé du scénario de projet
-- Concertation- Ateliers - rencontres - réunions - Programmation
+- Description détaillée du scénario de projet
+- Concertation- Ateliers - rencontres - Réunions - Programmation
 - Accompagnement vers les partenaires
 - Montage dossier partenaires et aides
-### Accompagnement gestion et valorisation patrimoniale
-- Diagnostic et expertise paysage, inventaire, - Plan de gestion, gestion différenciée
-- Communication, exposition,
-- Accompagnement vers un label,
+### Accompagnement pour la gestion et la valorisation patrimoniale
+- Diagnostic et expertise paysage, inventaire 
+- Plan de gestion, gestion différenciée
+- Communication, exposition
+- Accompagnement vers un label
 - Montage dossier partenaires et appel à projet 
