@@ -16,5 +16,5 @@ Vous souhaitez faire votre part pour la nature ordinaire ?
 Vous êtes soucieux du ré-emploi et de la modularité de vos pratiques ? Vous avez à cœur de valoriser vos savoir-faire ?
 ### Particuliers, associations et collectivités, sollicitez mes compétences et mes idées pour :
 - vos projets de **massifs, jardins, parcs, espaces collectifs, espaces verts** 
-- vos études de **faisabilité, programmation** 
+- vos études **de faisabilité et de programmation** 
 - vos **ateliers d'expérimentation** 
