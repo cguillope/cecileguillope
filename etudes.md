@@ -9,11 +9,11 @@ in_menu: true
 ### Intégrer la compétence paysage à vos marchés publics 
 
 ### Pré-faisabilité du projet (Avant le projet)
-- Etat des lieux avec les partenaires concernées - Diagnostic et analyse
+- Etat des lieux avec les partenaires concernés - Diagnostic et analyse
 - Identification et synthèse des besoins
 - Pertinence du projet
 - Scénarios identifiés chiffrés
-- Concertation- Ateliers - rencontres - réunions - Choix et présentation du scénario retenu
+- Concertation- Ateliers - Rencontres - Réunions - Choix et présentation du scénario retenu
 ### Vers la programmation (Définition du projet)
 - Description détaillé du scénario de projet
 - Concertation- Ateliers - rencontres - réunions - Programmation
