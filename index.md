@@ -8,6 +8,7 @@ in_menu: true
 - vos études **de faisabilité et de programmation** 
 - vos **ateliers d'expérimentation** 
 
+Vous recherché un jardin adapté aux changements climatiques, des espaces extérieurs résilients ?
 Vous recherchez du bon sens et de la créativité, une vision d'ensemble et des modes d'emploi techniques ? 
 Vous souhaitez faire votre part pour la nature ordinaire ? 
 Vous êtes soucieux du ré-emploi et de la modularité de vos pratiques ? Vous avez à cœur de valoriser vos savoir-faire ?
