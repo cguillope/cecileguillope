@@ -9,7 +9,7 @@ in_menu: true
 - **Identification et organisation des besoins**
 - **Partage d'idées**, co-conception
 - **Conseils et sensibilisation**  
-![Texte décrivant l'image]({% link images/Dominique.jpeg %})
+![Illustrations]({% link images/Illu2.png %})
 
 
 ### Prêt à vous lancer pour votre jardin ? 
