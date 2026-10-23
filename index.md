@@ -1,5 +1,5 @@
 ---
-title: "L'échochoppe du paysagiste"
+title: "L'échochoppe du jardinier"
 order: 0
 in_menu: true
 ---
