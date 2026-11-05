@@ -9,7 +9,7 @@ in_menu: true
 - **Identification et organisation des besoins**
 - **Partage d'idées**, co-conception
 - **Conseils et sensibilisation**  
-![Illustrations]({% link images/Illu2.png %})
+![Exemple d'accompagnement de jardins]({% link images/REF_SITE2.png %})
 
 
 ### Prêt à vous lancer pour votre jardin ? 
