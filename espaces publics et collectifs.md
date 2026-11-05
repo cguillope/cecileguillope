@@ -3,13 +3,13 @@ title: "Espaces publics et collectifs"
 order: 2
 in_menu: true
 ---
-- Vous vous souciez de la qualité des ambiances de votre village ?
-- Vous réfléchissez à mieux équilibrer les charges d’entretien de vos espaces verts sans dévaloriser le cadre de vie ? 
-- Vous organisez une journée citoyenne pour désherber et fleurir les espaces verts ?
-- Vos vous demandez comment créer vos massifs à partir de boutures collectées ? 
-- Vous vous questionnez sur votre palette végétale en lien avec votre paysage et les changements climatiques ? 
-- Vous souhaitez accueillir plus de biodiversité ordinaire ?
-- Vous souhaitez ombrager et apporter de la fraicheur à votre place  du village ?
+- Vous vous souciez de la qualité des ambiances de votre village, 
+- Vous réfléchissez à mieux équilibrer les charges d’entretien de vos espaces verts sans dévaloriser le cadre de vie,  
+- Vous organisez une journée citoyenne pour désherber et fleurir les espaces verts, 
+- Vos vous demandez comment créer vos massifs à partir de boutures collectées,
+- Vous vous questionnez sur votre palette végétale en lien avec votre paysage et les changements climatiques, 
+- Vous souhaitez accueillir plus de biodiversité ordinaire,
+- Vous souhaitez ombrager et apporter de la fraicheur à votre place  du village,
 
 ### Prêt à vous faire accompagner pour valoriser votre cadre de vie ? 
 
