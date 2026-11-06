@@ -3,13 +3,13 @@ title: "Espaces publics et collectifs"
 order: 2
 in_menu: true
 ---
-- Vous vous souciez de la qualité des ambiances de votre village, 
-- Vous réfléchissez à mieux équilibrer les charges d’entretien de vos espaces verts sans dévaloriser le cadre de vie,  
-- Vous organisez une journée citoyenne pour désherber et fleurir les espaces verts, 
-- Vos vous demandez comment créer vos massifs à partir de boutures collectées,
-- Vous vous questionnez sur votre palette végétale en lien avec votre paysage et les changements climatiques, 
-- Vous souhaitez accueillir plus de biodiversité ordinaire,
-- Vous souhaitez ombrager et apporter de la fraicheur à votre place  du village,
+- Vous vous souciez de la **qualité des ambiances** de votre village, 
+- Vous réfléchissez à mieux **équilibrer les charges d’entretien** de vos espaces verts sans dévaloriser le cadre de vie,  
+- Vous organisez une **journée citoyenne** pour désherber et fleurir les espaces verts, 
+- Vos vous demandez comment créer vos **massifs** à partir de boutures collectées,
+- Vous vous questionnez sur votre **palette végétale** en lien avec votre paysage et les **changements climatiques**, 
+- Vous souhaitez accueillir plus de **biodiversité ordinaire**,
+- Vous souhaitez **ombrager et apporter de la fraicheur** à votre place  du village,
 
 ### Prêt à vous faire accompagner pour valoriser votre cadre de vie ? 
 
@@ -21,3 +21,7 @@ Fabriquez un moment de partage in situ et collaboratif pour une composition pers
 
 Vous obtenez des éléments concrets comme par exemple **une esquisse "feuille de route", une liste d'associations végétales, un conseil d'entretien, une séance de repérage/piquetage intelligent...**
 Ces éléments vous permettront d'agir ponctuellement dans vos espaces publics et collectifs à votre rythme et dans une cohérence d’ensemble. Ils pourront être partagés avec les concepteurs, les entreprises de paysage et de travaux publics, les pépiniéristes, les associations locales... 
+
+- **Devis** sur demande
+
+- **1ère étape** : 1/2 journée en votre compagnie 
