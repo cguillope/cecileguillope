@@ -9,7 +9,7 @@ J'aspire à :
 - Créer des lieux résilients : se protéger du vent ou de la chaleur, déconnecter ses gouttières et gérer l'eau pluviale à la parcelle,  **agir avec le changement climatique**
 - Encourager les démarches collectives et co-construites, **agir ensemble**
 - Porter une vision d'ensemble, jongler avec les contraintes et leviers existants, **agir dans nos paysages** 
-- Transmettre des modes d'emploi techniques et valoriser les savoir-faire mobilisables  **agir à petits pas et mettre la main à la pâte** 
+- Transmettre des modes d'emploi techniques et valoriser vos savoir-faire, **agir à petits pas et mettre la main à la pâte** 
 ![Exemples d'accompagnements]({% link images/REF_SITE.png %})
 
 ### Particuliers, associations et collectivités, partageons nos compétences et nos idées pour :
