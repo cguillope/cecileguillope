@@ -22,6 +22,4 @@ Fabriquez un moment de partage in situ et collaboratif pour une composition pers
 Vous obtenez des éléments concrets comme par exemple **une esquisse "feuille de route", une liste d'associations végétales, un conseil d'entretien, une séance de repérage/piquetage intelligent...**
 Ces éléments vous permettront d'agir ponctuellement dans vos espaces publics et collectifs à votre rythme et dans une cohérence d’ensemble. Ils pourront être partagés avec les concepteurs, les entreprises de paysage et de travaux publics, les pépiniéristes, les associations locales... 
 
-- **Devis** sur demande
-
-- **1ère étape** : 1/2 journée en votre compagnie 
+- **Devis** sur demande 
