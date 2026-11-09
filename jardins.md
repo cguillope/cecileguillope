@@ -7,11 +7,11 @@ in_menu: true
 - Vous réfléchissez à mieux **équilibrer l’entretien** de votre jardin en fonction de votre temps à y consacrer ou de vos capacités,  
 - Vous souhaitez gérer vos eaux pluviales à la parcelle et **déconnecter vos gouttières**, 
 - Vos vous demandez comment créer des **massifs** peu gourmands en eau, florifères et favorables aux pollinisateurs,
-- Vous vous questionnez sur votre **palette végétale** en lien avec votre paysage et les **changements climatiques**, 
+- Vous vous questionnez sur votre **palette végétale** en lien avec votre paysage et le **changement climatique**, 
 - Vous souhaitez accueillir plus de **biodiversité ordinaire**,
 - Vous rechercher comment **ombrager et apporter de la fraicheur** à votre terrasse ou à votre façade Sud ou à vous **protéger des vents**,
 
-### Prêt à vous faire accompagner pour une (re)composition personnalisée de votre jardin
+### Prêt à vous faire accompagner pour une (re)composition personnalisée de votre jardin ?
 
 ### Un moment de partage in situ : 
 
@@ -20,9 +20,6 @@ in_menu: true
 - **Partage d'idées**, co-conception
 - **Conseils et sensibilisation**  
 ![Exemple d'accompagnement de jardins]({% link images/REF_SITE2.png %})
-
-
-### Prêt à vous lancer pour votre jardin ? 
 
 - **Devis** sur demande
 
