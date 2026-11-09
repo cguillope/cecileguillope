@@ -10,7 +10,7 @@ J'aspire à :
 - Encourager les démarches collectives et co-construites, **agir ensemble**
 - Porter une vision partagée, jongler avec les contraintes et leviers existants, **agir dans nos paysages** 
 - Transmettre des modes d'emploi techniques et valoriser vos savoir-faire, **agir à petits pas et mettre la main à la pâte** 
-![Exemples d'accompagnements]({% link images/REF_SITE.png %})
+![Exemples d'accompagnements]({% link images/PAGE1.png %})
 
 ### Particuliers, associations et collectivités, partageons nos compétences et nos idées pour :
 - vos projets de **massifs, jardins, parcs, espaces collectifs, espaces verts** 
