@@ -12,6 +12,7 @@ in_menu: true
 - Vous rechercher comment **ombrager et apporter de la fraicheur** à votre terrasse ou à votre façade Sud ou à vous **protéger des vents**,
 
 ### Prêt à vous faire accompagner pour une (re)composition personnalisée de votre jardin ?
+![Exemples d'accompagnement]({% link images/PAGE2.png %})
 
 ### Un moment de partage in situ : 
 
@@ -19,7 +20,6 @@ in_menu: true
 - **Identification et organisation des besoins**
 - **Partage d'idées**, co-conception
 - **Conseils et sensibilisation**  
-![Exemple d'accompagnement de jardins]({% link images/REF_SITE2.png %})
 
 - **Devis** sur demande
 
