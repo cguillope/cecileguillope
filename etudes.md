@@ -5,6 +5,7 @@ in_menu: true
 ---
 - **Au sein d’une équipe pluridisciplinaire**, en accompagnement des compétences en architecture, espace public (VRD), expertise en arboriculture, espace naturel, urbanisme culturel...
 - **Dans le cadre de sensibilisation des équipes techniques des collectivités territoriales**
+![Exemples d'accompagnements]({% link images/PAGE3.png %})
 
 ### Intégrer la compétence paysage à vos marchés publics 
 
