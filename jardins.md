@@ -3,6 +3,14 @@ title: "Jardins"
 order: 1
 in_menu: true
 ---
+- Vous aimez votre jardin et vous recherchez de nouvelles **idées**, 
+- Vous réfléchissez à mieux **équilibrer l’entretien** de votre jardin en fonction de votre temps à y consacrer ou de vos capacités,  
+- Vous souhaitez gérer vos eaux pluviales à la parcelle et **déconnecter vos gouttières**, 
+- Vos vous demandez comment créer des **massifs** peu gourmands en eau, florifères et favorables aux pollinisateurs,
+- Vous vous questionnez sur votre **palette végétale** en lien avec votre paysage et les **changements climatiques**, 
+- Vous souhaitez accueillir plus de **biodiversité ordinaire**,
+- Vous rechercher comment **ombrager et apporter de la fraicheur** à votre terrasse ou à votre façade Sud ou à vous **protéger des vents**,
+
 ### Un moment de partage in situ pour une composition personnalisée de votre jardin
 
 - **Diagnostic et expertise du lieu** (capacité d’entretien, ressources présentes sur place, clés de gestion, indicateurs floristiques, liens avec la maison et ses habitants, compréhension de l’environnement, nature ordinaire, du vent ou de la chaleur, déconnecter ses gouttières et gérer l'eau pluviale à la parcelle...)
