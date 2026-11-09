@@ -8,7 +8,7 @@ J'aspire à :
 - Partager une expertise paysage avec une forte sensibilité sur la place du végétal et sur les actions favorables à la biodiversité, **agir avec le vivant**
 - Créer des lieux résilients : observer, préserver, s'adapter et se protéger,  régénérer, **agir avec le changement climatique**
 - Encourager les démarches collectives et co-construites, **agir ensemble**
-- Porter une vision d'ensemble, jongler avec les contraintes et leviers existants, **agir dans nos paysages** 
+- Porter une vision partagée, jongler avec les contraintes et leviers existants, **agir dans nos paysages** 
 - Transmettre des modes d'emploi techniques et valoriser vos savoir-faire, **agir à petits pas et mettre la main à la pâte** 
 ![Exemples d'accompagnements]({% link images/REF_SITE.png %})
 
